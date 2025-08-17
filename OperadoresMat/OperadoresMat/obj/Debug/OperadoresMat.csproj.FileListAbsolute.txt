@@ -1,0 +1,7 @@
+D:\Arquivos\GitHub\Estudos.net\OperadoresMat\OperadoresMat\bin\Debug\OperadoresMat.exe.config
+D:\Arquivos\GitHub\Estudos.net\OperadoresMat\OperadoresMat\bin\Debug\OperadoresMat.exe
+D:\Arquivos\GitHub\Estudos.net\OperadoresMat\OperadoresMat\bin\Debug\OperadoresMat.pdb
+D:\Arquivos\GitHub\Estudos.net\OperadoresMat\OperadoresMat\obj\Debug\OperadoresMat.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\OperadoresMat\OperadoresMat\obj\Debug\OperadoresMat.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\OperadoresMat\OperadoresMat\obj\Debug\OperadoresMat.exe
+D:\Arquivos\GitHub\Estudos.net\OperadoresMat\OperadoresMat\obj\Debug\OperadoresMat.pdb
