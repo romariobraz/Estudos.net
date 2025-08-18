@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\3. Convertendo dados\\Conversoes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47A42797-1748-4F0F-82FB-84A78A99ABC0}|Conversoes\\Conversoes.csproj|d:\\arquivos\\github\\estudos.net\\3. convertendo dados\\conversoes\\conversoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A42797-1748-4F0F-82FB-84A78A99ABC0}|Conversoes\\Conversoes.csproj|solutionrelative:conversoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\3. Convertendo dados\\Conversoes\\Conversoes\\Program.cs",
+              "RelativeDocumentMoniker": "Conversoes\\Program.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\3. Convertendo dados\\Conversoes\\Conversoes\\Program.cs*",
+              "RelativeToolTip": "Conversoes\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwDAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T14:56:28.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\Arquivos\GitHub\Estudos.net\3. Convertendo dados\Conversoes\Conversoes\bin\Debug\Conversoes.exe.config
+D:\Arquivos\GitHub\Estudos.net\3. Convertendo dados\Conversoes\Conversoes\bin\Debug\Conversoes.exe
+D:\Arquivos\GitHub\Estudos.net\3. Convertendo dados\Conversoes\Conversoes\bin\Debug\Conversoes.pdb
+D:\Arquivos\GitHub\Estudos.net\3. Convertendo dados\Conversoes\Conversoes\obj\Debug\Conversoes.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\3. Convertendo dados\Conversoes\Conversoes\obj\Debug\Conversoes.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\3. Convertendo dados\Conversoes\Conversoes\obj\Debug\Conversoes.exe
+D:\Arquivos\GitHub\Estudos.net\3. Convertendo dados\Conversoes\Conversoes\obj\Debug\Conversoes.pdb

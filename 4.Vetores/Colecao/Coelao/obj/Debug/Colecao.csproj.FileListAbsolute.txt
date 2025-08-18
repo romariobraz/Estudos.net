@@ -1,0 +1,7 @@
+D:\Arquivos\GitHub\Estudos.net\4.Vetores\Coelao\Coelao\bin\Debug\Coelao.exe.config
+D:\Arquivos\GitHub\Estudos.net\4.Vetores\Coelao\Coelao\bin\Debug\Coelao.exe
+D:\Arquivos\GitHub\Estudos.net\4.Vetores\Coelao\Coelao\bin\Debug\Coelao.pdb
+D:\Arquivos\GitHub\Estudos.net\4.Vetores\Coelao\Coelao\obj\Debug\Colecao.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\4.Vetores\Coelao\Coelao\obj\Debug\Colecao.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\4.Vetores\Coelao\Coelao\obj\Debug\Coelao.exe
+D:\Arquivos\GitHub\Estudos.net\4.Vetores\Coelao\Coelao\obj\Debug\Coelao.pdb
