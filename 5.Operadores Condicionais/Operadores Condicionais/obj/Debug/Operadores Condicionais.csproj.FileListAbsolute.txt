@@ -1,0 +1,16 @@
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\Operadores Condicionais\Operadores Condicionais\bin\Debug\Operadores Condicionais.exe.config
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\Operadores Condicionais\Operadores Condicionais\bin\Debug\Operadores Condicionais.exe
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\Operadores Condicionais\Operadores Condicionais\bin\Debug\Operadores Condicionais.pdb
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\Operadores Condicionais\Operadores Condicionais\obj\Debug\Operadores Condicionais.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\Operadores Condicionais\Operadores Condicionais\obj\Debug\Operadores Condicionais.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\Operadores Condicionais\Operadores Condicionais\obj\Debug\Operadores Condicionais.exe
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\Operadores Condicionais\Operadores Condicionais\obj\Debug\Operadores Condicionais.pdb
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\Operadores Condicionais\Operadores Condicionais\obj\Debug\Operadores Condicionais.exe.config
+D:\Arquivos\GitHub\Estudos.net\5.Operadores Condicionais\Operadores Condicionais\obj\Debug\Operadores Condicionais.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\5.Operadores Condicionais\Operadores Condicionais\obj\Debug\Operadores Condicionais.exe.config
+D:\Arquivos\GitHub\Estudos.net\5.Operadores Condicionais\Operadores Condicionais\obj\Debug\Operadores Condicionais.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\5.Operadores Condicionais\Operadores Condicionais\obj\Debug\Operadores Condicionais.exe
+D:\Arquivos\GitHub\Estudos.net\5.Operadores Condicionais\Operadores Condicionais\obj\Debug\Operadores Condicionais.pdb
+D:\Arquivos\GitHub\Estudos.net\5.Operadores Condicionais\Operadores Condicionais\bin\Debug\Operadores Condicionais.exe.config
+D:\Arquivos\GitHub\Estudos.net\5.Operadores Condicionais\Operadores Condicionais\bin\Debug\Operadores Condicionais.exe
+D:\Arquivos\GitHub\Estudos.net\5.Operadores Condicionais\Operadores Condicionais\bin\Debug\Operadores Condicionais.pdb
