@@ -1,0 +1,8 @@
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe.config

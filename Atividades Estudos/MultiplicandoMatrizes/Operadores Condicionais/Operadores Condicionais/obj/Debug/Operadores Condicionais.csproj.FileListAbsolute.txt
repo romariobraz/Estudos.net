@@ -5,3 +5,4 @@ D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\Operador
 D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\Operadores Condicionais\Operadores Condicionais\obj\Debug\Operadores Condicionais.csproj.CoreCompileInputs.cache
 D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\Operadores Condicionais\Operadores Condicionais\obj\Debug\Operadores Condicionais.exe
 D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\Operadores Condicionais\Operadores Condicionais\obj\Debug\Operadores Condicionais.pdb
+D:\Arquivos\GitHub\Estudos.net\Atividades Estudos\MultiplicandoMatrizes\Operadores Condicionais\Operadores Condicionais\obj\Debug\Operadores Condicionais.exe.config
