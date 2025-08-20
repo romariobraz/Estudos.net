@@ -10,9 +10,9 @@ namespace Cadastro.Metodos
     {
         private string _nome;
         private int _idade;
-        public string nome
+        public string Nome
         {
-            get => _nome.ToUpper(); //Isto é uma body expression
+            get => _nome; //Isto é uma body expression
             //{ return _nome.ToUpper(); }
             set { 
                 if(value == "") {
@@ -22,7 +22,7 @@ namespace Cadastro.Metodos
                 _nome = value;
                 }
         }
-        public int idade { 
+        public int Idade { 
 
             get => _idade;
             set
@@ -30,7 +30,11 @@ namespace Cadastro.Metodos
                 if (value < 0) {
                     throw new ArgumentException("A idade não pode ser menor do que 0");
                 }
+                _idade = value;
             }
         }
+
+        public string Sobrenome { get; set; }
+        public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
     }
 }
