@@ -13,8 +13,8 @@ namespace Cadastro
         {
             Pessoa pessoa = new Pessoa(); // 2 Instância
             //Agora pode sentar o aço.
-            pessoa.nome = "";
-            pessoa.idade = 31;
+            pessoa.nome = "Romario";
+            pessoa.idade = -1;
 
             Console.WriteLine($"Meu nome é: {pessoa.nome}");
             Console.WriteLine($"Minha idade é: {pessoa.idade}");
