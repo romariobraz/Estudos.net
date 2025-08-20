@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\4.Vetores\\Coelao\\",
+  "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\4.Vetores\\Colecao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39D65E7D-98DA-401C-907E-9CF3DD592323}|Coelao\\Coelao.csproj|d:\\arquivos\\github\\estudos.net\\4.vetores\\coelao\\coelao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39D65E7D-98DA-401C-907E-9CF3DD592323}|Coelao\\Coelao.csproj|solutionrelative:coelao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39D65E7D-98DA-401C-907E-9CF3DD592323}|Coelao\\Colecao.csproj|d:\\arquivos\\github\\estudos.net\\4.vetores\\colecao\\coelao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D65E7D-98DA-401C-907E-9CF3DD592323}|Coelao\\Colecao.csproj|solutionrelative:coelao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\4.Vetores\\Coelao\\Coelao\\Program.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\4.Vetores\\Colecao\\Coelao\\Program.cs",
               "RelativeDocumentMoniker": "Coelao\\Program.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\4.Vetores\\Coelao\\Coelao\\Program.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\4.Vetores\\Colecao\\Coelao\\Program.cs",
               "RelativeToolTip": "Coelao\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAwwGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T18:04:26.576Z",
               "EditorCaption": ""
