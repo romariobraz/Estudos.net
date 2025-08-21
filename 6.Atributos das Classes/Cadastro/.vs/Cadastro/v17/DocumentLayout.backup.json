@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\6.Atributos das Classes\\Cadastro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3D57825-C143-4C29-ADF9-93D38E856A8F}|Cadastro\\Cadastro.csproj|D:\\Arquivos\\GitHub\\Estudos.net\\6.Atributos das Classes\\Cadastro\\cadastro\\metodos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3D57825-C143-4C29-ADF9-93D38E856A8F}|Cadastro\\Cadastro.csproj|solutionrelative:cadastro\\metodos\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E3D57825-C143-4C29-ADF9-93D38E856A8F}|Cadastro\\Cadastro.csproj|d:\\arquivos\\github\\estudos.net\\6.atributos das classes\\cadastro\\cadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3D57825-C143-4C29-ADF9-93D38E856A8F}|Cadastro\\Cadastro.csproj|solutionrelative:cadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D57825-C143-4C29-ADF9-93D38E856A8F}|Cadastro\\Cadastro.csproj|d:\\arquivos\\github\\estudos.net\\6.atributos das classes\\cadastro\\cadastro\\metodos\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D57825-C143-4C29-ADF9-93D38E856A8F}|Cadastro\\Cadastro.csproj|solutionrelative:cadastro\\metodos\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pessoa.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\6.Atributos das Classes\\Cadastro\\Cadastro\\Metodos\\Pessoa.cs",
-              "RelativeDocumentMoniker": "Cadastro\\Metodos\\Pessoa.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\6.Atributos das Classes\\Cadastro\\Cadastro\\Metodos\\Pessoa.cs*",
-              "RelativeToolTip": "Cadastro\\Metodos\\Pessoa.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\6.Atributos das Classes\\Cadastro\\Cadastro\\Program.cs",
+              "RelativeDocumentMoniker": "Cadastro\\Program.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\6.Atributos das Classes\\Cadastro\\Cadastro\\Program.cs*",
+              "RelativeToolTip": "Cadastro\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:05:00.169Z",
+              "WhenOpened": "2025-08-21T09:52:34.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\6.Atributos das Classes\\Cadastro\\Cadastro\\Program.cs",
-              "RelativeDocumentMoniker": "Cadastro\\Program.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\6.Atributos das Classes\\Cadastro\\Cadastro\\Program.cs",
-              "RelativeToolTip": "Cadastro\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBQAAABGAAAAAAAAAA==",
+              "Title": "Curso.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\6.Atributos das Classes\\Cadastro\\Cadastro\\Metodos\\Curso.cs",
+              "RelativeDocumentMoniker": "Cadastro\\Metodos\\Curso.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\6.Atributos das Classes\\Cadastro\\Cadastro\\Metodos\\Curso.cs",
+              "RelativeToolTip": "Cadastro\\Metodos\\Curso.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:03:34.606Z",
+              "WhenOpened": "2025-08-20T18:44:36.823Z",
               "EditorCaption": ""
             }
           ]

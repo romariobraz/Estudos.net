@@ -34,6 +34,7 @@ namespace Cadastro.Metodos
             }
         }
 
+
         public string Sobrenome { get; set; }
         public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
     }

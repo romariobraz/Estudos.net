@@ -11,16 +11,33 @@ namespace Cadastro
     {
         static void Main(string[] args)
         {
+
             Pessoa pessoa = new Pessoa(); // 2 Instância
             //Agora pode sentar o aço.
             pessoa.Nome = "Romario";
-            pessoa.Idade = 31;
+            //pessoa.Idade = 31;
             pessoa.Sobrenome = "Rocha";
 
+            Pessoa pessoa2 = new Pessoa();
+            pessoa2.Nome = "Eduardo";
+            pessoa2.Sobrenome = "Silva";
+
+            Curso nCurso  = new Curso();
+            nCurso.NomeCurso = "Inglês";
+            nCurso.Alunos = new List<Pessoa>();
+
+            nCurso.AdicionarAluno(pessoa);
+            nCurso.AdicionarAluno(pessoa2);
+            nCurso.ListarAlunos();
+
+
+
+            /*
             Console.WriteLine($"Meu nome é: {pessoa.Nome}");
             Console.WriteLine($"Meu sobrenome é: {pessoa.Sobrenome}");
             Console.WriteLine($"Meu nome completo é: {pessoa.NomeCompleto}");
             Console.WriteLine($"Minha idade é: {pessoa.Idade}");
+            */
         }
     }
 }

@@ -16,5 +16,25 @@ namespace Cadastro.Metodos
             Alunos.Add(aluno);
 
         }
+
+        public int ObterQntdeAlunosMatriculados()
+        {
+            int quantidadeAlunos = Alunos.Count;
+            return quantidadeAlunos;
+        }
+
+        public bool RemoverAluno(Pessoa aluno)
+        {
+            return Alunos.Remove(aluno);
+        }
+
+        public void ListarAlunos()
+        {
+            foreach (Pessoa aluno in Alunos)
+            {
+                Console.WriteLine(aluno.NomeCompleto);
+            }
+
+        }
     }
-}
+    }
