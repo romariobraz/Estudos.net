@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\8.Classes Parciais\\Modulos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A89F80C-CCA1-42F9-ABF6-76959EFD719F}|Modulos\\Modulos.csproj|d:\\arquivos\\github\\estudos.net\\8.classes parciais\\modulos\\modulos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A89F80C-CCA1-42F9-ABF6-76959EFD719F}|Modulos\\Modulos.csproj|solutionrelative:modulos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A89F80C-CCA1-42F9-ABF6-76959EFD719F}|Modulos\\Modulos.csproj|D:\\Arquivos\\GitHub\\Estudos.net\\8.Classes Parciais\\Modulos\\modulos\\pessoasmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A89F80C-CCA1-42F9-ABF6-76959EFD719F}|Modulos\\Modulos.csproj|solutionrelative:modulos\\pessoasmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A89F80C-CCA1-42F9-ABF6-76959EFD719F}|Modulos\\Modulos.csproj|D:\\Arquivos\\GitHub\\Estudos.net\\8.Classes Parciais\\Modulos\\modulos\\pessoavariaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A89F80C-CCA1-42F9-ABF6-76959EFD719F}|Modulos\\Modulos.csproj|solutionrelative:modulos\\pessoavariaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PessoaVariaveis.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\8.Classes Parciais\\Modulos\\Modulos\\PessoaVariaveis.cs",
+              "RelativeDocumentMoniker": "Modulos\\PessoaVariaveis.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\8.Classes Parciais\\Modulos\\Modulos\\PessoaVariaveis.cs",
+              "RelativeToolTip": "Modulos\\PessoaVariaveis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T15:31:10.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PessoasMetodos.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\8.Classes Parciais\\Modulos\\Modulos\\PessoasMetodos.cs",
+              "RelativeDocumentMoniker": "Modulos\\PessoasMetodos.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\8.Classes Parciais\\Modulos\\Modulos\\PessoasMetodos.cs",
+              "RelativeToolTip": "Modulos\\PessoasMetodos.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T15:27:34.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\8.Classes Parciais\\Modulos\\Modulos\\Program.cs",
+              "RelativeDocumentMoniker": "Modulos\\Program.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\8.Classes Parciais\\Modulos\\Modulos\\Program.cs",
+              "RelativeToolTip": "Modulos\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwDYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T15:27:17.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
