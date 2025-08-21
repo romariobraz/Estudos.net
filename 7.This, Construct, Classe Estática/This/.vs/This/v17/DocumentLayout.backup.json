@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\7.This, Construct, Classe Est\u00E1tica\\This\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA51683-5B98-4310-A414-580382328FD9}|This\\This.csproj|d:\\arquivos\\github\\estudos.net\\7.this, construct, classe est\u00E1tica\\this\\this\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA51683-5B98-4310-A414-580382328FD9}|This\\This.csproj|solutionrelative:this\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA51683-5B98-4310-A414-580382328FD9}|This\\This.csproj|d:\\arquivos\\github\\estudos.net\\7.this, construct, classe est\u00E1tica\\this\\this\\est\u00E1tico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA51683-5B98-4310-A414-580382328FD9}|This\\This.csproj|solutionrelative:this\\est\u00E1tico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA51683-5B98-4310-A414-580382328FD9}|This\\This.csproj|d:\\arquivos\\github\\estudos.net\\7.this, construct, classe est\u00E1tica\\this\\this\\matematica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA51683-5B98-4310-A414-580382328FD9}|This\\This.csproj|solutionrelative:this\\matematica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matematica.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\7.This, Construct, Classe Est\u00E1tica\\This\\This\\Matematica.cs",
+              "RelativeDocumentMoniker": "This\\Matematica.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\7.This, Construct, Classe Est\u00E1tica\\This\\This\\Matematica.cs",
+              "RelativeToolTip": "This\\Matematica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:12:42.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Est\u00E1tico.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\7.This, Construct, Classe Est\u00E1tica\\This\\This\\Est\u00E1tico.cs",
+              "RelativeDocumentMoniker": "This\\Est\u00E1tico.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\7.This, Construct, Classe Est\u00E1tica\\This\\This\\Est\u00E1tico.cs",
+              "RelativeToolTip": "This\\Est\u00E1tico.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T14:10:36.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\7.This, Construct, Classe Est\u00E1tica\\This\\This\\Program.cs",
+              "RelativeDocumentMoniker": "This\\Program.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\7.This, Construct, Classe Est\u00E1tica\\This\\This\\Program.cs*",
+              "RelativeToolTip": "This\\Program.cs*",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwEsAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T11:55:20.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
