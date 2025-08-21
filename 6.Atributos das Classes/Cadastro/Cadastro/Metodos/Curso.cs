@@ -30,6 +30,7 @@ namespace Cadastro.Metodos
 
         public void ListarAlunos()
         {
+            Console.WriteLine("Curso:" + NomeCurso);
             foreach (Pessoa aluno in Alunos)
             {
                 Console.WriteLine(aluno.NomeCompleto);
