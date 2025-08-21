@@ -1,0 +1,8 @@
+D:\Arquivos\GitHub\Estudos.net\9.Lendo arquivos\ExplorandoArquivos\ExplorandoArquivos\obj\Debug\ExplorandoArquivos.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\9.Lendo arquivos\ExplorandoArquivos\ExplorandoArquivos\obj\Debug\ExplorandoArquivos.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\9.Lendo arquivos\ExplorandoArquivos\ExplorandoArquivos\bin\Debug\ExplorandoArquivos.exe.config
+D:\Arquivos\GitHub\Estudos.net\9.Lendo arquivos\ExplorandoArquivos\ExplorandoArquivos\bin\Debug\ExplorandoArquivos.exe
+D:\Arquivos\GitHub\Estudos.net\9.Lendo arquivos\ExplorandoArquivos\ExplorandoArquivos\bin\Debug\ExplorandoArquivos.pdb
+D:\Arquivos\GitHub\Estudos.net\9.Lendo arquivos\ExplorandoArquivos\ExplorandoArquivos\obj\Debug\ExplorandoArquivos.exe
+D:\Arquivos\GitHub\Estudos.net\9.Lendo arquivos\ExplorandoArquivos\ExplorandoArquivos\obj\Debug\ExplorandoArquivos.pdb
+D:\Arquivos\GitHub\Estudos.net\9.Lendo arquivos\ExplorandoArquivos\ExplorandoArquivos\obj\Debug\ExplorandoArquivos.exe.config
