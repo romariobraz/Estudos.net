@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{BEA51683-5B98-4310-A414-580382328FD9}|This\\This.csproj|solutionrelative:this\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEA51683-5B98-4310-A414-580382328FD9}|This\\This.csproj|d:\\arquivos\\github\\estudos.net\\7.this\\this\\this\\acoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BEA51683-5B98-4310-A414-580382328FD9}|This\\This.csproj|solutionrelative:this\\acoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BEA51683-5B98-4310-A414-580382328FD9}|This\\This.csproj|d:\\arquivos\\github\\estudos.net\\7.this\\this\\this\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA51683-5B98-4310-A414-580382328FD9}|This\\This.csproj|solutionrelative:this\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Acoes.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\7.This\\This\\This\\Acoes.cs",
-              "RelativeDocumentMoniker": "This\\Acoes.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\7.This\\This\\This\\Acoes.cs",
-              "RelativeToolTip": "This\\Acoes.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAsAAAAgAAAAAAAAAA==",
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\7.This\\This\\This\\Pessoa.cs",
+              "RelativeDocumentMoniker": "This\\Pessoa.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\7.This\\This\\This\\Pessoa.cs",
+              "RelativeToolTip": "This\\Pessoa.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwCQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T11:56:02.046Z",
+              "WhenOpened": "2025-08-21T13:10:57.889Z",
               "EditorCaption": ""
             },
             {
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "This\\Program.cs",
               "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\7.This\\This\\This\\Program.cs",
               "RelativeToolTip": "This\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwCYAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwDgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T11:55:20.63Z",
               "EditorCaption": ""
