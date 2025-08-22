@@ -10,21 +10,22 @@ namespace Tuplas
     {
         static void Main(string[] args)
         {
-            //Uma tupla armazena vários tipos de dados
-            (int, string, string) exemploTupla = (01, "Romario", "Braz");
-            //Podemos escrever ou acessar esses dados assim:
-            Console.WriteLine($"{exemploTupla.Item1} + {exemploTupla.Item2} + {exemploTupla.Item3}");
-            //Outro meio de declarar tupla
-            ValueTuple<int, string, string, string> exemploTupla2 = (02, "Thiago", "Ferreira", "Diogo");
-            Console.WriteLine($"{exemploTupla2.Item1} + {exemploTupla2.Item2} + {exemploTupla2.Item3} + {exemploTupla2.Item4}");
-            //Mais um modo de criar outra tupla
-            var exemploTupla3 = Tuple.Create(02, "Gustavo", "Diogenes", "Lima");
-            Console.WriteLine($"{exemploTupla3.Item1} + {exemploTupla3.Item2} + {exemploTupla3.Item3} + {exemploTupla3.Item4}");
-            //ainda no nosso primeiro exemplo, podemos fazer o seguinte
-            (int chave, string nome, string sobrenome) exemploTupla4 = (01, "Romario", "Braz");
-            Console.WriteLine($"{exemploTupla4.nome} + {exemploTupla4.sobrenome} + {exemploTupla4.chave}");
+            TuplaArquivo arquivo = new TuplaArquivo();
 
-            //Tuplas em outras classes e retorno de tupla
+            var (Sucesso, LinhasArquivo, QuantidadeLinhas) = arquivo.LerArquivo("D:\\Arquivos\\GitHub\\Estudos.net\\12.Tuplas\\Tuplas\\Tuplas\\dados.txt");
+            //Caso eu queira discartar um retorno, basta eu trocar a variavel dele por "_"
+            if (Sucesso)
+            {
+
+                foreach (string linha in LinhasArquivo)
+                {
+                    Console.WriteLine(linha);
+                }
+            }
+            else
+            {
+                Console.WriteLine("Não foi possível ler o arquivo");
+            }
         }
     }
 }
