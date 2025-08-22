@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{9FA0E54D-B1B6-41AA-9B06-A7F6FF9E0A82}|ExplorandoArquivos\\ExplorandoArquivos.csproj|d:\\arquivos\\github\\estudos.net\\10.exce\u00E7\u00F5es\\explorandoarquivos\\explorandoarquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FA0E54D-B1B6-41AA-9B06-A7F6FF9E0A82}|ExplorandoArquivos\\ExplorandoArquivos.csproj|solutionrelative:explorandoarquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA0E54D-B1B6-41AA-9B06-A7F6FF9E0A82}|ExplorandoArquivos\\ExplorandoArquivos.csproj|d:\\arquivos\\github\\estudos.net\\10.exce\u00E7\u00F5es\\explorandoarquivos\\explorandoarquivos\\explorando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA0E54D-B1B6-41AA-9B06-A7F6FF9E0A82}|ExplorandoArquivos\\ExplorandoArquivos.csproj|solutionrelative:explorandoarquivos\\explorando.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Explorando.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\10.Exce\u00E7\u00F5es\\ExplorandoArquivos\\ExplorandoArquivos\\Explorando.cs",
+              "RelativeDocumentMoniker": "ExplorandoArquivos\\Explorando.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\10.Exce\u00E7\u00F5es\\ExplorandoArquivos\\ExplorandoArquivos\\Explorando.cs",
+              "RelativeToolTip": "ExplorandoArquivos\\Explorando.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T11:43:32.421Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "ExplorandoArquivos\\Program.cs",
               "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\10.Exce\u00E7\u00F5es\\ExplorandoArquivos\\ExplorandoArquivos\\Program.cs",
               "RelativeToolTip": "ExplorandoArquivos\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCIAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T19:56:37.65Z",
               "EditorCaption": ""

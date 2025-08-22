@@ -14,14 +14,15 @@ namespace ExplorandoArquivos
 
             try { //Tenta
 
-                string[] linhas = File.ReadAllLines("D:\\Arquivos\\GitHub\\Estudos.net\\10.Exceções\\ExplorandoArquivos\\ExplorandoArquivos\\Arquivos\\Dados.txt");
+                //string[] linhas = File.ReadAllLines("D:\\Arquivos\\GitHub\\Estudos.net\\10.Exceções\\ExplorandoArquivos\\ExplorandoArquivos\\Arquivos\\Dados.txt");
+
+                new Explorando().Metodo1();
                 
-                
-                foreach (string linha in linhas)
+                /* foreach (string linha in linhas)
                 {
                     Console.WriteLine(linha);
 
-                }
+                } */  
             }
             catch(FileNotFoundException ex) //Erro de arquivo não encontrado
             {
