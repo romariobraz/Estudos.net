@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|d:\\arquivos\\github\\estudos.net\\15.heran\u00E7a\\exemplopoo\\exemplopoo\\modelos\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|solutionrelative:exemplopoo\\modelos\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Interfaces\\ICalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploPOO\\Interfaces\\ICalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|d:\\arquivos\\github\\estudos.net\\15.heran\u00E7a\\exemplopoo\\exemplopoo\\modelos\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|solutionrelative:exemplopoo\\modelos\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Object\\Calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploPOO\\Object\\Calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|d:\\arquivos\\github\\estudos.net\\15.heran\u00E7a\\exemplopoo\\exemplopoo\\modelos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|solutionrelative:exemplopoo\\modelos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Modelos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploPOO\\Modelos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,28 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Professor.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Modelos\\Professor.cs",
-              "RelativeDocumentMoniker": "ExemploPOO\\Modelos\\Professor.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Modelos\\Professor.cs",
-              "RelativeToolTip": "ExemploPOO\\Modelos\\Professor.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Title": "ICalculadora.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Interfaces\\ICalculadora.cs",
+              "RelativeDocumentMoniker": "ExemploPOO\\Interfaces\\ICalculadora.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Interfaces\\ICalculadora.cs",
+              "RelativeToolTip": "ExemploPOO\\Interfaces\\ICalculadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T11:14:13.285Z",
+              "WhenOpened": "2025-08-23T11:51:02.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Diretor.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Modelos\\Diretor.cs",
-              "RelativeDocumentMoniker": "ExemploPOO\\Modelos\\Diretor.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Modelos\\Diretor.cs",
-              "RelativeToolTip": "ExemploPOO\\Modelos\\Diretor.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA8AAAAqAAAAAAAAAA==",
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Object\\Calculadora.cs",
+              "RelativeDocumentMoniker": "ExemploPOO\\Object\\Calculadora.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Object\\Calculadora.cs",
+              "RelativeToolTip": "ExemploPOO\\Object\\Calculadora.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T11:13:43.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T11:50:45.493Z"
             },
             {
               "$type": "Document",
@@ -58,10 +57,13 @@
               "RelativeDocumentMoniker": "ExemploPOO\\Modelos\\Program.cs",
               "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Modelos\\Program.cs",
               "RelativeToolTip": "ExemploPOO\\Modelos\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAxwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T09:27:07.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-23T11:43:46.027Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

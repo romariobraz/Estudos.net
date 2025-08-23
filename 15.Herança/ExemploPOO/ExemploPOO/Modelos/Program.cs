@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using ExemploPOO.Interfaces;
 using ExemploPOO.Modelos;
+using ExemploPOO.Object;
 
 namespace ExemploPOO
 {
@@ -27,6 +29,15 @@ namespace ExemploPOO
             Corrente c = new Corrente();
             c.Creditar(500);
             c.ExibirSaldo();
+
+            //Aula sobre a classe object
+            //Computador c = new Computador();
+            //c
+
+            //Aula sobre interface
+            Console.WriteLine("Agora vamos para interfaces");
+            ICalculadora calc = new Calculadora();
+            Console.WriteLine($"Vamos somar com a interface da minha calculadora: {calc.Somar(10,15)}");
         }
     }
 }
