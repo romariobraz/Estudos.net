@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Interfaces\\ICalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploPOO\\Interfaces\\ICalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|d:\\arquivos\\github\\estudos.net\\15.heran\u00E7a\\exemplopoo\\exemplopoo\\interfaces\\icalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|solutionrelative:exemplopoo\\interfaces\\icalculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Object\\Calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploPOO\\Object\\Calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Object\\Calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|solutionrelative:ExemploPOO\\Object\\Calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Modelos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExemploPOO\\Modelos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Modelos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|solutionrelative:ExemploPOO\\Modelos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "ExemploPOO\\Interfaces\\ICalculadora.cs",
               "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Interfaces\\ICalculadora.cs",
               "RelativeToolTip": "ExemploPOO\\Interfaces\\ICalculadora.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T11:51:02.769Z",
               "EditorCaption": ""
@@ -60,6 +60,10 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T11:43:46.027Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
