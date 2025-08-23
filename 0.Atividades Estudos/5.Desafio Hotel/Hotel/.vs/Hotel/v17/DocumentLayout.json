@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\0.Atividades Estudos\\5.Desafio Hotel\\Hotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14641354-A404-443F-9AD2-4FD74FAA8593}|Hotel\\Hotel.csproj|d:\\arquivos\\github\\estudos.net\\0.atividades estudos\\5.desafio hotel\\hotel\\hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14641354-A404-443F-9AD2-4FD74FAA8593}|Hotel\\Hotel.csproj|solutionrelative:hotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\0.Atividades Estudos\\5.Desafio Hotel\\Hotel\\Hotel\\Program.cs",
+              "RelativeDocumentMoniker": "Hotel\\Program.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\0.Atividades Estudos\\5.Desafio Hotel\\Hotel\\Hotel\\Program.cs",
+              "RelativeToolTip": "Hotel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T00:10:30.482Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
