@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\17.MinimalApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{799B9CD7-F974-4882-A0D7-D537AD66EAE4}|Testems\\Testems.csproj|d:\\arquivos\\github\\estudos.net\\17.minimalapi\\testems\\requests\\administradorrequesttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799B9CD7-F974-4882-A0D7-D537AD66EAE4}|Testems\\Testems.csproj|solutionrelative:testems\\requests\\administradorrequesttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdministradorRequestTest.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\17.MinimalApi\\Testems\\Requests\\AdministradorRequestTest.cs",
+              "RelativeDocumentMoniker": "Testems\\Requests\\AdministradorRequestTest.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\17.MinimalApi\\Testems\\Requests\\AdministradorRequestTest.cs",
+              "RelativeToolTip": "Testems\\Requests\\AdministradorRequestTest.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T19:56:23.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
