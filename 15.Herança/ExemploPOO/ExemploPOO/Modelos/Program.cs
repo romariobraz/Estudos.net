@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using ExemploPOO.Interfaces;
 using ExemploPOO.Modelos;
 using ExemploPOO.Object;
+using ExemploPOO.Caixa_Encapsulamento;
 
 namespace ExemploPOO
 {
@@ -38,6 +39,13 @@ namespace ExemploPOO
             Console.WriteLine("Agora vamos para interfaces");
             ICalculadora calc = new Calculadora();
             Console.WriteLine($"Vamos somar com a interface da minha calculadora: {calc.Somar(10,15)}");
+
+            //Aula sobre Encapsulamento
+            Console.WriteLine("Agora vamos para Encapsulamento");
+            EncapCaixa ec = new EncapCaixa();
+            ec.Depositar(500);
+            ec.Sacar(250);
+
         }
     }
 }

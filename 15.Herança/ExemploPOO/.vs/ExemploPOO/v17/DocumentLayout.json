@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|d:\\arquivos\\github\\estudos.net\\15.heran\u00E7a\\exemplopoo\\exemplopoo\\modelos\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|solutionrelative:exemplopoo\\modelos\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|d:\\arquivos\\github\\estudos.net\\15.heran\u00E7a\\exemplopoo\\exemplopoo\\modelos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|solutionrelative:exemplopoo\\modelos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|d:\\arquivos\\github\\estudos.net\\15.heran\u00E7a\\exemplopoo\\exemplopoo\\object\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|solutionrelative:exemplopoo\\object\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Modelos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|solutionrelative:ExemploPOO\\Modelos\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|d:\\arquivos\\github\\estudos.net\\15.heran\u00E7a\\exemplopoo\\exemplopoo\\modelos\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|solutionrelative:exemplopoo\\modelos\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|d:\\arquivos\\github\\estudos.net\\15.heran\u00E7a\\exemplopoo\\exemplopoo\\object\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|solutionrelative:exemplopoo\\object\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|d:\\arquivos\\github\\estudos.net\\15.heran\u00E7a\\exemplopoo\\exemplopoo\\modelos\\corrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|solutionrelative:exemplopoo\\modelos\\corrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|d:\\arquivos\\github\\estudos.net\\15.heran\u00E7a\\exemplopoo\\exemplopoo\\caixa encapsulamento\\encapcaixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4275B65B-2446-47DC-A2A1-AF9AC262AF54}|ExemploPOO\\ExemploPOO.csproj|solutionrelative:exemplopoo\\caixa encapsulamento\\encapcaixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,78 +22,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Corrente.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Modelos\\Corrente.cs",
-              "RelativeDocumentMoniker": "ExemploPOO\\Modelos\\Corrente.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Modelos\\Corrente.cs",
-              "RelativeToolTip": "ExemploPOO\\Modelos\\Corrente.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "EncapCaixa.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Caixa Encapsulamento\\EncapCaixa.cs",
+              "RelativeDocumentMoniker": "ExemploPOO\\Caixa Encapsulamento\\EncapCaixa.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Caixa Encapsulamento\\EncapCaixa.cs",
+              "RelativeToolTip": "ExemploPOO\\Caixa Encapsulamento\\EncapCaixa.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T13:49:57.5Z",
+              "WhenOpened": "2025-08-29T20:42:45.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Conta.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Modelos\\Conta.cs",
-              "RelativeDocumentMoniker": "ExemploPOO\\Modelos\\Conta.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Modelos\\Conta.cs",
-              "RelativeToolTip": "ExemploPOO\\Modelos\\Conta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T13:49:26.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Modelos\\Aluno.cs",
-              "RelativeDocumentMoniker": "ExemploPOO\\Modelos\\Aluno.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Modelos\\Aluno.cs",
-              "RelativeToolTip": "ExemploPOO\\Modelos\\Aluno.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T13:49:05.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Computador.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Object\\Computador.cs",
-              "RelativeDocumentMoniker": "ExemploPOO\\Object\\Computador.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Object\\Computador.cs",
-              "RelativeToolTip": "ExemploPOO\\Object\\Computador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T13:49:00.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Calculadora.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Object\\Calculadora.cs",
-              "RelativeDocumentMoniker": "ExemploPOO\\Object\\Calculadora.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Object\\Calculadora.cs",
-              "RelativeToolTip": "ExemploPOO\\Object\\Calculadora.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T13:48:54.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Modelos\\Program.cs",
               "RelativeDocumentMoniker": "ExemploPOO\\Modelos\\Program.cs",
               "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\15.Heran\u00E7a\\ExemploPOO\\ExemploPOO\\Modelos\\Program.cs",
               "RelativeToolTip": "ExemploPOO\\Modelos\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T11:43:46.027Z",
               "EditorCaption": ""
