@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAFEC24-279D-474E-95B2-4107E112CAAA}|Vetores Foreach e listas\\Vetores Foreach e listas.csproj|d:\\arquivos\\github\\estudos.net\\1. entrada e saida de dados\\vetores foreach e listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAFEC24-279D-474E-95B2-4107E112CAAA}|Vetores Foreach e listas\\Vetores Foreach e listas.csproj|solutionrelative:vetores foreach e listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3BBE4E-1A84-44CC-BE2B-9B8596A6DB12}|Convers\u00E3o de Dados\\Convers\u00E3o de Dados.csproj|d:\\arquivos\\github\\estudos.net\\1. entrada e saida de dados\\convers\u00E3o de dados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3BBE4E-1A84-44CC-BE2B-9B8596A6DB12}|Convers\u00E3o de Dados\\Convers\u00E3o de Dados.csproj|solutionrelative:convers\u00E3o de dados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\Vetores Foreach e listas\\Program.cs",
+              "RelativeDocumentMoniker": "Vetores Foreach e listas\\Program.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\Vetores Foreach e listas\\Program.cs",
+              "RelativeToolTip": "Vetores Foreach e listas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T04:10:52.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\Convers\u00E3o de Dados\\Program.cs",
+              "RelativeDocumentMoniker": "Convers\u00E3o de Dados\\Program.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\Convers\u00E3o de Dados\\Program.cs",
+              "RelativeToolTip": "Convers\u00E3o de Dados\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T04:08:19.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
