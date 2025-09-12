@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\23. Estudo das Forms\\EstudoForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC114563-DCD1-42ED-A9D8-E171102A659F}|EstudoForms\\EstudoForms.csproj|d:\\arquivos\\github\\estudos.net\\23. estudo das forms\\estudoforms\\estudoforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC114563-DCD1-42ED-A9D8-E171102A659F}|EstudoForms\\EstudoForms.csproj|solutionrelative:estudoforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC114563-DCD1-42ED-A9D8-E171102A659F}|EstudoForms\\EstudoForms.csproj|d:\\arquivos\\github\\estudos.net\\23. estudo das forms\\estudoforms\\estudoforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FC114563-DCD1-42ED-A9D8-E171102A659F}|EstudoForms\\EstudoForms.csproj|solutionrelative:estudoforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1C5518AA-69FD-45F3-8398-B80A41031EEF}|Task\\TaskApp.csproj|d:\\arquivos\\github\\estudos.net\\23. estudo das forms\\estudoforms\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5518AA-69FD-45F3-8398-B80A41031EEF}|Task\\TaskApp.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\23. Estudo das Forms\\EstudoForms\\EstudoForms\\Form1.cs",
-              "RelativeDocumentMoniker": "EstudoForms\\Form1.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\23. Estudo das Forms\\EstudoForms\\EstudoForms\\Form1.cs",
-              "RelativeToolTip": "EstudoForms\\Form1.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAmwGMAAAAsAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\23. Estudo das Forms\\EstudoForms\\Task\\Program.cs",
+              "RelativeDocumentMoniker": "Task\\Program.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\23. Estudo das Forms\\EstudoForms\\Task\\Program.cs",
+              "RelativeToolTip": "Task\\Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAwGwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T02:53:54.052Z",
+              "WhenOpened": "2025-09-12T03:05:10.001Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\23. Estudo das Forms\\EstudoForms\\EstudoForms\\Form1.cs",
-              "RelativeDocumentMoniker": "EstudoForms\\Form1.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\23. Estudo das Forms\\EstudoForms\\EstudoForms\\Form1.cs [Design]",
-              "RelativeToolTip": "EstudoForms\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-11T02:07:11.711Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

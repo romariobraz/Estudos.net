@@ -106,5 +106,54 @@ namespace EstudoForms
 
             lbResultado.Font = letra2;
         }
+
+        private void btnEnviroment_Click(object sender, EventArgs e)
+        {
+            //Retorna o caminho de uma pasta pré-determinada "pastas padrões"
+            String local = Environment.GetFolderPath(Environment.SpecialFolder.Cookies);
+
+            //Pega o diretório atual
+            String dirAtual = Environment.CurrentDirectory;
+
+            //Pegando as variaveis de ambiente
+            String varAmb = Environment.GetEnvironmentVariable("Path");
+
+            //Pegando os discos
+            string[] discos = Environment.GetLogicalDrives();
+
+            //.UserName : Pega o nome de usuário
+            //UserDomainName : Pega o nome do domínio
+
+            //Mostra  a quantidade de processadores
+            int cpu = Environment.ProcessorCount;
+
+            foreach (string item in discos) 
+            {
+                lbResultado.Text += "\n" + item;
+            }
+
+            
+        }
+
+        private void btnApplication_Click(object sender, EventArgs e)
+        {
+            //Finaliza a aplicação
+            //Application.Exit();
+
+            //Mostra o caminho e nome da aplicação
+            string exec = Application.ExecutablePath;
+
+            //Apenas o caminho da aplicação
+            string pasta = Application.StartupPath;
+            lbResultado.Text = exec;
+
+            //Reinicia a aplicação
+            //Application.Restart();
+        }
+
+        private void btnThread_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

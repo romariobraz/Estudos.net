@@ -35,6 +35,8 @@
             this.btnDateTime = new System.Windows.Forms.Button();
             this.btnCores = new System.Windows.Forms.Button();
             this.btnFontes = new System.Windows.Forms.Button();
+            this.btnEnviroment = new System.Windows.Forms.Button();
+            this.btnApplication = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnMessageBox
@@ -106,11 +108,33 @@
             this.btnFontes.UseVisualStyleBackColor = true;
             this.btnFontes.Click += new System.EventHandler(this.btnFontes_Click);
             // 
+            // btnEnviroment
+            // 
+            this.btnEnviroment.Location = new System.Drawing.Point(135, 231);
+            this.btnEnviroment.Name = "btnEnviroment";
+            this.btnEnviroment.Size = new System.Drawing.Size(120, 47);
+            this.btnEnviroment.TabIndex = 7;
+            this.btnEnviroment.Text = "Enviroment";
+            this.btnEnviroment.UseVisualStyleBackColor = true;
+            this.btnEnviroment.Click += new System.EventHandler(this.btnEnviroment_Click);
+            // 
+            // btnApplication
+            // 
+            this.btnApplication.Location = new System.Drawing.Point(261, 231);
+            this.btnApplication.Name = "btnApplication";
+            this.btnApplication.Size = new System.Drawing.Size(120, 47);
+            this.btnApplication.TabIndex = 8;
+            this.btnApplication.Text = "Applicattion";
+            this.btnApplication.UseVisualStyleBackColor = true;
+            this.btnApplication.Click += new System.EventHandler(this.btnApplication_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(638, 343);
+            this.Controls.Add(this.btnApplication);
+            this.Controls.Add(this.btnEnviroment);
             this.Controls.Add(this.btnFontes);
             this.Controls.Add(this.btnCores);
             this.Controls.Add(this.btnDateTime);
@@ -133,6 +157,8 @@
         private System.Windows.Forms.Button btnDateTime;
         private System.Windows.Forms.Button btnCores;
         private System.Windows.Forms.Button btnFontes;
+        private System.Windows.Forms.Button btnEnviroment;
+        private System.Windows.Forms.Button btnApplication;
     }
 }
 
