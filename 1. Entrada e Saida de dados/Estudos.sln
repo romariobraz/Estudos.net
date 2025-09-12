@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Entrada, Saida de dados e conversoes", "Entrada e Saida de dados\1.Entrada, Saida de dados e conversoes.csproj", "{1D0B841D-A04A-4AD6-B2A8-347370021CB3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Entrada Saida de dados e conversoes", "1.Entrada Saida de dados e conversoes\1.Entrada Saida de dados e conversoes.csproj", "{1D0B841D-A04A-4AD6-B2A8-347370021CB3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Tipos de dados E Operacoes", "2.Tipos de dados E Operacoes\2.Tipos de dados E Operacoes.csproj", "{06D42917-40E8-4E28-9AB7-CC02E9268A0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversão de Dados", "Conversão de Dados\Conversão de Dados.csproj", "{1E3BBE4E-1A84-44CC-BE2B-9B8596A6DB12}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Conversão de Dados", "3.Conversão de Dados\3.Conversão de Dados.csproj", "{1E3BBE4E-1A84-44CC-BE2B-9B8596A6DB12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vetores Foreach e listas", "Vetores Foreach e listas\Vetores Foreach e listas.csproj", "{3CAFEC24-279D-474E-95B2-4107E112CAAA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Vetores Foreach e listas", "4.Vetores Foreach e listas\4.Vetores Foreach e listas.csproj", "{3CAFEC24-279D-474E-95B2-4107E112CAAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Estruturas de Decisao", "5. Estruturas de Decisao\5. Estruturas de Decisao.csproj", "{7B35BF6A-3F5D-47BD-8CCE-FA26CCE1E62F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.Estrutura das Classes", "6.Estrutura das Classes\6.Estrutura das Classes.csproj", "{E3D57825-C143-4C29-ADF9-93D38E856A8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{3CAFEC24-279D-474E-95B2-4107E112CAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CAFEC24-279D-474E-95B2-4107E112CAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CAFEC24-279D-474E-95B2-4107E112CAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B35BF6A-3F5D-47BD-8CCE-FA26CCE1E62F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B35BF6A-3F5D-47BD-8CCE-FA26CCE1E62F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B35BF6A-3F5D-47BD-8CCE-FA26CCE1E62F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B35BF6A-3F5D-47BD-8CCE-FA26CCE1E62F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3D57825-C143-4C29-ADF9-93D38E856A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D57825-C143-4C29-ADF9-93D38E856A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D57825-C143-4C29-ADF9-93D38E856A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D57825-C143-4C29-ADF9-93D38E856A8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

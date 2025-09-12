@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3CAFEC24-279D-474E-95B2-4107E112CAAA}|Vetores Foreach e listas\\Vetores Foreach e listas.csproj|d:\\arquivos\\github\\estudos.net\\1. entrada e saida de dados\\vetores foreach e listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CAFEC24-279D-474E-95B2-4107E112CAAA}|Vetores Foreach e listas\\Vetores Foreach e listas.csproj|solutionrelative:vetores foreach e listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D0B841D-A04A-4AD6-B2A8-347370021CB3}|1.Entrada Saida de dados e conversoes\\1.Entrada Saida de dados e conversoes.csproj|d:\\arquivos\\github\\estudos.net\\1. entrada e saida de dados\\1.entrada saida de dados e conversoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0B841D-A04A-4AD6-B2A8-347370021CB3}|1.Entrada Saida de dados e conversoes\\1.Entrada Saida de dados e conversoes.csproj|solutionrelative:1.entrada saida de dados e conversoes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\Vetores Foreach e listas\\Program.cs",
-              "RelativeDocumentMoniker": "Vetores Foreach e listas\\Program.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\Vetores Foreach e listas\\Program.cs",
-              "RelativeToolTip": "Vetores Foreach e listas\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAHsAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\1.Entrada Saida de dados e conversoes\\Program.cs",
+              "RelativeDocumentMoniker": "1.Entrada Saida de dados e conversoes\\Program.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\1.Entrada Saida de dados e conversoes\\Program.cs",
+              "RelativeToolTip": "1.Entrada Saida de dados e conversoes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-12T04:10:52.845Z",
+              "WhenOpened": "2025-09-12T05:33:03.521Z",
               "EditorCaption": ""
             }
           ]
