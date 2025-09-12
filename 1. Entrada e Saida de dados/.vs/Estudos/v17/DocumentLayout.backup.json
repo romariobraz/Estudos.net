@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13EFCE94-7A5D-4ACF-9A94-3EBA032157F2}|12.Serializacao\\Serializacao.csproj|d:\\arquivos\\github\\estudos.net\\1. entrada e saida de dados\\12.serializacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13EFCE94-7A5D-4ACF-9A94-3EBA032157F2}|12.Serializacao\\Serializacao.csproj|solutionrelative:12.serializacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\12.Serializacao\\Program.cs",
+              "RelativeDocumentMoniker": "12.Serializacao\\Program.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\12.Serializacao\\Program.cs",
+              "RelativeToolTip": "12.Serializacao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T05:57:36.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
