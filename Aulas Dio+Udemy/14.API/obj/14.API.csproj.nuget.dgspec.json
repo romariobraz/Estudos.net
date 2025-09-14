@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\14.API\\14.API.csproj": {}
+    "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio+Udemy\\14.API\\14.API.csproj": {}
   },
   "projects": {
-    "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\14.API\\14.API.csproj": {
+    "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio+Udemy\\14.API\\14.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\14.API\\14.API.csproj",
+        "projectUniqueName": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio+Udemy\\14.API\\14.API.csproj",
         "projectName": "14.API",
-        "projectPath": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\14.API\\14.API.csproj",
+        "projectPath": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio+Udemy\\14.API\\14.API.csproj",
         "packagesPath": "C:\\Users\\M4x\\.nuget\\packages\\",
-        "outputPath": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\14.API\\obj\\",
+        "outputPath": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio+Udemy\\14.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

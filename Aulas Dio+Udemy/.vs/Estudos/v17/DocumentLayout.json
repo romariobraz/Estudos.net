@@ -1,12 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7CE984-3B45-4A0C-A118-2CD2D52D34BC}|30.ControledasFormsPt4\\30.DetalhesdasFormsPt4.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\30.controledasformspt4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF7CE984-3B45-4A0C-A118-2CD2D52D34BC}|30.ControledasFormsPt4\\30.DetalhesdasFormsPt4.csproj|solutionrelative:30.controledasformspt4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF7CE984-3B45-4A0C-A118-2CD2D52D34BC}|30.ControledasFormsPt4\\30.DetalhesdasFormsPt4.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\30.controledasformspt4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF7CE984-3B45-4A0C-A118-2CD2D52D34BC}|30.ControledasFormsPt4\\30.DetalhesdasFormsPt4.csproj|solutionrelative:30.controledasformspt4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\30.ControledasFormsPt4\\Form1.cs",
+              "RelativeDocumentMoniker": "30.ControledasFormsPt4\\Form1.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\30.ControledasFormsPt4\\Form1.cs",
+              "RelativeToolTip": "30.ControledasFormsPt4\\Form1.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAIwOgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T03:47:21.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\30.ControledasFormsPt4\\Form1.cs",
+              "RelativeDocumentMoniker": "30.ControledasFormsPt4\\Form1.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\30.ControledasFormsPt4\\Form1.cs [Design]",
+              "RelativeToolTip": "30.ControledasFormsPt4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T02:16:25.902Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

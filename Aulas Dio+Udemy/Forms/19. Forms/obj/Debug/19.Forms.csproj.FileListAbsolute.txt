@@ -7,3 +7,7 @@ D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Forms\19. Forms\obj\D
 D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Forms\19. Forms\obj\Debug\19.Forms.csproj.CoreCompileInputs.cache
 D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Forms\19. Forms\obj\Debug\Visual.exe
 D:\Arquivos\GitHub\Estudos.net\1. Entrada e Saida de dados\Forms\19. Forms\obj\Debug\Visual.pdb
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\Forms\19. Forms\obj\Debug\19.Forms.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\Forms\19. Forms\obj\Debug\Visual.exe.config
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\Forms\19. Forms\obj\Debug\Visual.exe
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\Forms\19. Forms\obj\Debug\Visual.pdb

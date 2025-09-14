@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CPHwXdE5eVg=",
+  "dgSpecHash": "/poBNQXOj6Y=",
   "success": true,
-  "projectFilePath": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\17.Entity\\17.Entity.csproj",
+  "projectFilePath": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio+Udemy\\17.Entity\\17.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\M4x\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\M4x\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",

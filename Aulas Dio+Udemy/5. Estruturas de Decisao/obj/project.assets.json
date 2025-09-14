@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\5. Estruturas de Decisao\\5. Estruturas de Decisao.csproj",
+      "projectUniqueName": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio+Udemy\\5. Estruturas de Decisao\\5. Estruturas de Decisao.csproj",
       "projectName": "5. Estruturas de Decisao",
-      "projectPath": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\5. Estruturas de Decisao\\5. Estruturas de Decisao.csproj",
+      "projectPath": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio+Udemy\\5. Estruturas de Decisao\\5. Estruturas de Decisao.csproj",
       "packagesPath": "C:\\Users\\M4x\\.nuget\\packages\\",
-      "outputPath": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\5. Estruturas de Decisao\\obj\\",
+      "outputPath": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio+Udemy\\5. Estruturas de Decisao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

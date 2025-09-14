@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\22.Task\\22.TaskApp.csproj": {}
+    "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio+Udemy\\22.Task\\22.TaskApp.csproj": {}
   },
   "projects": {
-    "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\22.Task\\22.TaskApp.csproj": {
+    "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio+Udemy\\22.Task\\22.TaskApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\22.Task\\22.TaskApp.csproj",
+        "projectUniqueName": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio+Udemy\\22.Task\\22.TaskApp.csproj",
         "projectName": "22.TaskApp",
-        "projectPath": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\22.Task\\22.TaskApp.csproj",
+        "projectPath": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio+Udemy\\22.Task\\22.TaskApp.csproj",
         "packagesPath": "C:\\Users\\M4x\\.nuget\\packages\\",
-        "outputPath": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\22.Task\\obj\\",
+        "outputPath": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio+Udemy\\22.Task\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

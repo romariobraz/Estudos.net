@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\13.Heranca\\13.Heranca.csproj",
+      "projectUniqueName": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio+Udemy\\13.Heranca\\13.Heranca.csproj",
       "projectName": "13.Heranca",
-      "projectPath": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\13.Heranca\\13.Heranca.csproj",
+      "projectPath": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio+Udemy\\13.Heranca\\13.Heranca.csproj",
       "packagesPath": "C:\\Users\\M4x\\.nuget\\packages\\",
-      "outputPath": "D:\\Arquivos\\GitHub\\Estudos.net\\1. Entrada e Saida de dados\\13.Heranca\\obj\\",
+      "outputPath": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio+Udemy\\13.Heranca\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
