@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7121D318-2117-451D-85A3-785EAD7F15F3}|LINQ\\LINQ.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\linq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7121D318-2117-451D-85A3-785EAD7F15F3}|LINQ\\LINQ.csproj|solutionrelative:linq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39B19ABD-140A-49B9-A8C8-2712E20869FD}|36.GdiPlus\\36.GdiPlus.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\36.gdiplus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39B19ABD-140A-49B9-A8C8-2712E20869FD}|36.GdiPlus\\36.GdiPlus.csproj|solutionrelative:36.gdiplus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7121D318-2117-451D-85A3-785EAD7F15F3}|LINQ\\LINQ.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\linq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7121D318-2117-451D-85A3-785EAD7F15F3}|LINQ\\LINQ.csproj|solutionrelative:linq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{39B19ABD-140A-49B9-A8C8-2712E20869FD}|36.GdiPlus\\36.GdiPlus.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\36.gdiplus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39B19ABD-140A-49B9-A8C8-2712E20869FD}|36.GdiPlus\\36.GdiPlus.csproj|solutionrelative:36.gdiplus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\LINQ\\Form1.cs",
-              "RelativeDocumentMoniker": "LINQ\\Form1.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\LINQ\\Form1.cs",
-              "RelativeToolTip": "LINQ\\Form1.cs",
-              "ViewState": "AgIAABQBAAAAAAAAAAAQwB4BAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\36.GdiPlus\\Form1.cs",
+              "RelativeDocumentMoniker": "36.GdiPlus\\Form1.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\36.GdiPlus\\Form1.cs*",
+              "RelativeToolTip": "36.GdiPlus\\Form1.cs*",
+              "ViewState": "AgIAAB4BAAAAAAAAAAAIwCkBAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T00:08:40.663Z",
+              "WhenOpened": "2025-09-15T13:29:52.946Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\LINQ\\Form1.cs",
-              "RelativeDocumentMoniker": "LINQ\\Form1.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\LINQ\\Form1.cs [Design]",
-              "RelativeToolTip": "LINQ\\Form1.cs [Design]",
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\36.GdiPlus\\Form1.cs",
+              "RelativeDocumentMoniker": "36.GdiPlus\\Form1.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\36.GdiPlus\\Form1.cs [Projeto]*",
+              "RelativeToolTip": "36.GdiPlus\\Form1.cs [Projeto]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T00:06:44.784Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-15T13:29:41.301Z",
+              "EditorCaption": " [Projeto]"
             }
           ]
         }
