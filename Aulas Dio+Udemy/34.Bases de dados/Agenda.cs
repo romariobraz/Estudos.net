@@ -15,7 +15,7 @@ namespace _34.Bases_de_dados
 {
     public partial class Agenda : Form
     {
-        public string SqlConect = "server=127.0.0.1;uid=root;pwd=9363plM!;database=contatos";
+        public string SqlConect = "server=127.0.0.1;uid=root;pwd=****;database=contatos";
         public Agenda()
         {
             InitializeComponent();
