@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("15. Consumo de API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83f932efd34c2bda00385211ae61806a874ccd20")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b730ca5fb5ca30d892d62c25f7227da459cd6af")]
 [assembly: System.Reflection.AssemblyProductAttribute("15. Consumo de API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("15. Consumo de API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
