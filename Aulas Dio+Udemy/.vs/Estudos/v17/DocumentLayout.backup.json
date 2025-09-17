@@ -3,47 +3,48 @@
   "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39B19ABD-140A-49B9-A8C8-2712E20869FD}|36.GdiPlus\\36.GdiPlus.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\36.gdiplus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39B19ABD-140A-49B9-A8C8-2712E20869FD}|36.GdiPlus\\36.GdiPlus.csproj|solutionrelative:36.gdiplus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5A9C2C0-6143-4DA9-BC77-2AEA1192881E}|44.HashMd5\\44.HashMd5.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\44.hashmd5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A9C2C0-6143-4DA9-BC77-2AEA1192881E}|44.HashMd5\\44.HashMd5.csproj|solutionrelative:44.hashmd5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39B19ABD-140A-49B9-A8C8-2712E20869FD}|36.GdiPlus\\36.GdiPlus.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\36.gdiplus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{39B19ABD-140A-49B9-A8C8-2712E20869FD}|36.GdiPlus\\36.GdiPlus.csproj|solutionrelative:36.gdiplus\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D5A9C2C0-6143-4DA9-BC77-2AEA1192881E}|44.HashMd5\\44.HashMd5.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\44.hashmd5\\md5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A9C2C0-6143-4DA9-BC77-2AEA1192881E}|44.HashMd5\\44.HashMd5.csproj|solutionrelative:44.hashmd5\\md5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\36.GdiPlus\\Form1.cs",
-              "RelativeDocumentMoniker": "36.GdiPlus\\Form1.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\36.GdiPlus\\Form1.cs*",
-              "RelativeToolTip": "36.GdiPlus\\Form1.cs*",
-              "ViewState": "AgIAAB4BAAAAAAAAAAAIwCkBAABJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Md5.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\44.HashMd5\\Md5.cs",
+              "RelativeDocumentMoniker": "44.HashMd5\\Md5.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\44.HashMd5\\Md5.cs",
+              "RelativeToolTip": "44.HashMd5\\Md5.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T13:29:52.946Z",
+              "WhenOpened": "2025-09-17T12:48:55.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\36.GdiPlus\\Form1.cs",
-              "RelativeDocumentMoniker": "36.GdiPlus\\Form1.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\36.GdiPlus\\Form1.cs [Projeto]*",
-              "RelativeToolTip": "36.GdiPlus\\Form1.cs [Projeto]*",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\44.HashMd5\\Form1.cs",
+              "RelativeDocumentMoniker": "44.HashMd5\\Form1.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\44.HashMd5\\Form1.cs",
+              "RelativeToolTip": "44.HashMd5\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwBwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T13:29:41.301Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2025-09-17T12:48:08.908Z",
+              "EditorCaption": ""
             }
           ]
         }
