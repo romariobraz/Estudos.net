@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{422C8F15-6D63-4841-BB83-A86BA7C43158}|45.CriptoGuardian\\45.CriptoGuardian.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\45.criptoguardian\\controladora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{422C8F15-6D63-4841-BB83-A86BA7C43158}|45.CriptoGuardian\\45.CriptoGuardian.csproj|solutionrelative:45.criptoguardian\\controladora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16A5F86A-A61E-4145-8ECB-5ECE0584896F}|46.AsyncExemplo\\46.AsyncExemplo.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\46.asyncexemplo\\controladoraasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A5F86A-A61E-4145-8ECB-5ECE0584896F}|46.AsyncExemplo\\46.AsyncExemplo.csproj|solutionrelative:46.asyncexemplo\\controladoraasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{422C8F15-6D63-4841-BB83-A86BA7C43158}|45.CriptoGuardian\\45.CriptoGuardian.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\45.criptoguardian\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{422C8F15-6D63-4841-BB83-A86BA7C43158}|45.CriptoGuardian\\45.CriptoGuardian.csproj|solutionrelative:45.criptoguardian\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16A5F86A-A61E-4145-8ECB-5ECE0584896F}|46.AsyncExemplo\\46.AsyncExemplo.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\46.asyncexemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A5F86A-A61E-4145-8ECB-5ECE0584896F}|46.AsyncExemplo\\46.AsyncExemplo.csproj|solutionrelative:46.asyncexemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{422C8F15-6D63-4841-BB83-A86BA7C43158}|45.CriptoGuardian\\45.CriptoGuardian.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\45.criptoguardian\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{422C8F15-6D63-4841-BB83-A86BA7C43158}|45.CriptoGuardian\\45.CriptoGuardian.csproj|solutionrelative:45.criptoguardian\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{16A5F86A-A61E-4145-8ECB-5ECE0584896F}|46.AsyncExemplo\\46.AsyncExemplo.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\46.asyncexemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16A5F86A-A61E-4145-8ECB-5ECE0584896F}|46.AsyncExemplo\\46.AsyncExemplo.csproj|solutionrelative:46.asyncexemplo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,39 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Controladora.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\45.CriptoGuardian\\Controladora.cs",
-              "RelativeDocumentMoniker": "45.CriptoGuardian\\Controladora.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\45.CriptoGuardian\\Controladora.cs",
-              "RelativeToolTip": "45.CriptoGuardian\\Controladora.cs",
-              "ViewState": "AgIAAEcBAAAAAAAAAAAswFABAAANAAAAAAAAAA==",
+              "Title": "ControladoraAsync.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\46.AsyncExemplo\\ControladoraAsync.cs",
+              "RelativeDocumentMoniker": "46.AsyncExemplo\\ControladoraAsync.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\46.AsyncExemplo\\ControladoraAsync.cs",
+              "RelativeToolTip": "46.AsyncExemplo\\ControladoraAsync.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T03:02:59.903Z",
+              "WhenOpened": "2025-09-18T05:21:25.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Main.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\45.CriptoGuardian\\Main.cs",
-              "RelativeDocumentMoniker": "45.CriptoGuardian\\Main.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\45.CriptoGuardian\\Main.cs",
-              "RelativeToolTip": "45.CriptoGuardian\\Main.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAwB8AAAA9AAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\46.AsyncExemplo\\Form1.cs",
+              "RelativeDocumentMoniker": "46.AsyncExemplo\\Form1.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\46.AsyncExemplo\\Form1.cs",
+              "RelativeToolTip": "46.AsyncExemplo\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T02:12:36.611Z",
+              "WhenOpened": "2025-09-18T04:28:59.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Main.cs [Projeto]",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\45.CriptoGuardian\\Main.cs",
-              "RelativeDocumentMoniker": "45.CriptoGuardian\\Main.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\45.CriptoGuardian\\Main.cs [Projeto]",
-              "RelativeToolTip": "45.CriptoGuardian\\Main.cs [Projeto]",
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\46.AsyncExemplo\\Form1.cs",
+              "RelativeDocumentMoniker": "46.AsyncExemplo\\Form1.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\46.AsyncExemplo\\Form1.cs [Projeto]",
+              "RelativeToolTip": "46.AsyncExemplo\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T02:12:26.028Z",
+              "WhenOpened": "2025-09-18T04:26:36.813Z",
               "EditorCaption": " [Projeto]"
             }
           ]
