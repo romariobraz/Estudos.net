@@ -265,3 +265,4 @@ D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\17.Entity\obj\Debug\net9.0\refint
 D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\17.Entity\obj\Debug\net9.0\17.Entity.pdb
 D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\17.Entity\obj\Debug\net9.0\17.Entity.genruntimeconfig.cache
 D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\17.Entity\obj\Debug\net9.0\ref\17.Entity.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\17.Entity\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

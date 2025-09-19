@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2.Tipos de dados E Operacoes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63c35ade23e35eedb9b5a4f1bf7756ca52053df9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17e098fd1d9665ec85943c07ddbe263a698ffb3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("2.Tipos de dados E Operacoes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2.Tipos de dados E Operacoes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

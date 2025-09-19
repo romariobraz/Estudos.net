@@ -33,3 +33,4 @@ D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\14.API\obj\Debug\net8.0\refint\14
 D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\14.API\obj\Debug\net8.0\14.API.pdb
 D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\14.API\obj\Debug\net8.0\14.API.genruntimeconfig.cache
 D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\14.API\obj\Debug\net8.0\ref\14.API.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\14.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

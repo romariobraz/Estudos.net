@@ -69,3 +69,4 @@ D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAP
 D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.pdb
 D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\15. Consumo de API.genruntimeconfig.cache
 D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\ref\15. Consumo de API.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\15.Consumo de API\MinhaPrimeiraAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
