@@ -1,0 +1,6 @@
+D:\Arquivos\GitHub\Estudos.net\23. Estudo das Forms\1.Testes\1.Testes\bin\Debug\1.Testes.dll
+D:\Arquivos\GitHub\Estudos.net\23. Estudo das Forms\1.Testes\1.Testes\bin\Debug\1.Testes.pdb
+D:\Arquivos\GitHub\Estudos.net\23. Estudo das Forms\1.Testes\1.Testes\obj\Debug\1.ProjetoExemplo.csproj.AssemblyReference.cache
+D:\Arquivos\GitHub\Estudos.net\23. Estudo das Forms\1.Testes\1.Testes\obj\Debug\1.ProjetoExemplo.csproj.CoreCompileInputs.cache
+D:\Arquivos\GitHub\Estudos.net\23. Estudo das Forms\1.Testes\1.Testes\obj\Debug\1.Testes.dll
+D:\Arquivos\GitHub\Estudos.net\23. Estudo das Forms\1.Testes\1.Testes\obj\Debug\1.Testes.pdb

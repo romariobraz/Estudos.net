@@ -16,8 +16,15 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.Estrutura das Classes", "6.Estrutura das Classes\6.Estrutura das Classes.csproj", "{E3D57825-C143-4C29-ADF9-93D38E856A8F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basico", "Basico", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		Tipos de coleções.txt = Tipos de coleções.txt
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Classes e POO", "Classes e POO", "{D5CA9866-B371-4608-90B3-6B2F9575D6DD}"
+	ProjectSection(SolutionItems) = preProject
+		Delegates.txt = Delegates.txt
+		Sobre Modificadores.txt = Sobre Modificadores.txt
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.Classe Parcial Formatacao e Cultura", "8.Classes Parciais\7.Classe Parcial Formatacao e Cultura.csproj", "{0A89F80C-CCA1-42F9-ABF6-76959EFD719F}"
 EndProject
@@ -134,6 +141,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45.CriptoGuardian", "45.CriptoGuardian\45.CriptoGuardian.csproj", "{422C8F15-6D63-4841-BB83-A86BA7C43158}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assyncrona", "Assyncrona", "{D4CF42E1-A6A4-464D-A56F-D5890484F5B1}"
+	ProjectSection(SolutionItems) = preProject
+		Sobre.txt = Sobre.txt
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46.AsyncExemplo", "46.AsyncExemplo\46.AsyncExemplo.csproj", "{16A5F86A-A61E-4145-8ECB-5ECE0584896F}"
 EndProject
