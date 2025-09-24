@@ -1,37 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{21E9EB67-E418-C8E2-0065-C2474B850DCC}|50.RazorFilmes\\RazorFilmes.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\50.razorfilmes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{21E9EB67-E418-C8E2-0065-C2474B850DCC}|50.RazorFilmes\\RazorFilmes.csproj|solutionrelative:50.razorfilmes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\50.RazorFilmes\\appsettings.json",
-              "RelativeDocumentMoniker": "50.RazorFilmes\\appsettings.json",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\50.RazorFilmes\\appsettings.json",
-              "RelativeToolTip": "50.RazorFilmes\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-21T16:22:31.898Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
