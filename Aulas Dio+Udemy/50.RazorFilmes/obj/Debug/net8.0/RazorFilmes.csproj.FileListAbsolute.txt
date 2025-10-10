@@ -479,3 +479,4 @@ D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\50.RazorFilmes\obj\Debug\net8.0\r
 D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\50.RazorFilmes\obj\Debug\net8.0\RazorFilmes.pdb
 D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\50.RazorFilmes\obj\Debug\net8.0\RazorFilmes.genruntimeconfig.cache
 D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\50.RazorFilmes\obj\Debug\net8.0\ref\RazorFilmes.dll
+D:\Arquivos\GitHub\Estudos.net\Aulas Dio+Udemy\50.RazorFilmes\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

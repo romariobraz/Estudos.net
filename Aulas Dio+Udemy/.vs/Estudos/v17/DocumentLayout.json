@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E3BBE4E-1A84-44CC-BE2B-9B8596A6DB12}|3.Convers\u00E3o de Dados\\3.Convers\u00E3o de Dados.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\3.convers\u00E3o de dados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E3BBE4E-1A84-44CC-BE2B-9B8596A6DB12}|3.Convers\u00E3o de Dados\\3.Convers\u00E3o de Dados.csproj|solutionrelative:3.convers\u00E3o de dados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B35BF6A-3F5D-47BD-8CCE-FA26CCE1E62F}|5. Estruturas de Decisao\\5. Estruturas de Decisao.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\5. estruturas de decisao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B35BF6A-3F5D-47BD-8CCE-FA26CCE1E62F}|5. Estruturas de Decisao\\5. Estruturas de Decisao.csproj|solutionrelative:5. estruturas de decisao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD99E3C4-6E7B-46BC-9704-BA28CCBC0187}|Inverter\\Inverter.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\inverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD99E3C4-6E7B-46BC-9704-BA28CCBC0187}|Inverter\\Inverter.csproj|solutionrelative:inverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3CAFEC24-279D-474E-95B2-4107E112CAAA}|4.Vetores Foreach e listas\\4.Vetores Foreach e listas.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\4.vetores foreach e listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,39 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\3.Convers\u00E3o de Dados\\Program.cs",
-              "RelativeDocumentMoniker": "3.Convers\u00E3o de Dados\\Program.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\3.Convers\u00E3o de Dados\\Program.cs",
-              "RelativeToolTip": "3.Convers\u00E3o de Dados\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\Inverter\\Program.cs",
+              "RelativeDocumentMoniker": "Inverter\\Program.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\Inverter\\Program.cs",
+              "RelativeToolTip": "Inverter\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T13:11:25.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\4.Vetores Foreach e listas\\Program.cs",
-              "RelativeDocumentMoniker": "4.Vetores Foreach e listas\\Program.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\4.Vetores Foreach e listas\\Program.cs",
-              "RelativeToolTip": "4.Vetores Foreach e listas\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T12:52:10.884Z",
+              "WhenOpened": "2025-10-09T15:14:19.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\5. Estruturas de Decisao\\Program.cs",
-              "RelativeDocumentMoniker": "5. Estruturas de Decisao\\Program.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\5. Estruturas de Decisao\\Program.cs",
-              "RelativeToolTip": "5. Estruturas de Decisao\\Program.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\4.Vetores Foreach e listas\\Program.cs",
+              "RelativeDocumentMoniker": "4.Vetores Foreach e listas\\Program.cs",
+              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\4.Vetores Foreach e listas\\Program.cs",
+              "RelativeToolTip": "4.Vetores Foreach e listas\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T12:49:32.224Z",
+              "WhenOpened": "2025-10-09T15:14:05.758Z",
               "EditorCaption": ""
             }
           ]
