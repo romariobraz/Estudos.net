@@ -1,54 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{AD99E3C4-6E7B-46BC-9704-BA28CCBC0187}|Inverter\\Inverter.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\inverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD99E3C4-6E7B-46BC-9704-BA28CCBC0187}|Inverter\\Inverter.csproj|solutionrelative:inverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3CAFEC24-279D-474E-95B2-4107E112CAAA}|4.Vetores Foreach e listas\\4.Vetores Foreach e listas.csproj|d:\\arquivos\\github\\estudos.net\\aulas dio\u002Budemy\\4.vetores foreach e listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3CAFEC24-279D-474E-95B2-4107E112CAAA}|4.Vetores Foreach e listas\\4.Vetores Foreach e listas.csproj|solutionrelative:4.vetores foreach e listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\Inverter\\Program.cs",
-              "RelativeDocumentMoniker": "Inverter\\Program.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\Inverter\\Program.cs",
-              "RelativeToolTip": "Inverter\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwBwAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T15:14:19.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\4.Vetores Foreach e listas\\Program.cs",
-              "RelativeDocumentMoniker": "4.Vetores Foreach e listas\\Program.cs",
-              "ToolTip": "D:\\Arquivos\\GitHub\\Estudos.net\\Aulas Dio\u002BUdemy\\4.Vetores Foreach e listas\\Program.cs",
-              "RelativeToolTip": "4.Vetores Foreach e listas\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-09T15:14:05.758Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

@@ -163,6 +163,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POOSimples", "POOSimples\PO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inverter", "Inverter\Inverter.csproj", "{AD99E3C4-6E7B-46BC-9704-BA28CCBC0187}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sobrecarga", "Sobrecarga\Sobrecarga.csproj", "{A6DC1809-6F1B-4DA6-B733-9C86A2BD8C9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -393,6 +395,10 @@ Global
 		{AD99E3C4-6E7B-46BC-9704-BA28CCBC0187}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD99E3C4-6E7B-46BC-9704-BA28CCBC0187}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD99E3C4-6E7B-46BC-9704-BA28CCBC0187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6DC1809-6F1B-4DA6-B733-9C86A2BD8C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6DC1809-6F1B-4DA6-B733-9C86A2BD8C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6DC1809-6F1B-4DA6-B733-9C86A2BD8C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6DC1809-6F1B-4DA6-B733-9C86A2BD8C9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -457,6 +463,7 @@ Global
 		{21E9EB67-E418-C8E2-0065-C2474B850DCC} = {01F54D63-EC8B-4EA4-98EC-931C3C1BABF0}
 		{D84BA07F-A7C4-412D-8474-64CBF8901D78} = {D5CA9866-B371-4608-90B3-6B2F9575D6DD}
 		{AD99E3C4-6E7B-46BC-9704-BA28CCBC0187} = {63FD2CE1-D6EE-4782-9B6F-91B8D4094699}
+		{A6DC1809-6F1B-4DA6-B733-9C86A2BD8C9C} = {D5CA9866-B371-4608-90B3-6B2F9575D6DD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0289F56A-7C49-4062-9F99-F5653400E482}
